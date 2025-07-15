@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#C41E3A"  # Deep red for accents
+backgroundColor = "#000000"  # Black background
+secondaryBackgroundColor = "#333333"  # Charcoal for panels
+textColor = "#FFFF"  # white for text
+font = "Arial"
