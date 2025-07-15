@@ -4,7 +4,7 @@
 
 This project is a complete backend system for managing a sweet shop inventory, built using Test-Driven Development (TDD) principles. It features a user-friendly Streamlit frontend for interactive management. Developed as a take-home assignment to demonstrate clean code, SOLID principles, and robust testing.
 ## App Demo
-![App Demo]   <!-- Add a screenshot of the running app -->
+![App Demo]  https://drive.google.com/file/d/1Dp2LM4Q_WnJVMLsCUzLqTVKsagKjbWr9/view?usp=sharing
 
 ## Features
 - **Sweet Management**: Add, delete, view, search (by name, category, price range), purchase, and restock sweets.
@@ -53,5 +53,5 @@ All features were developed test-first: Wrote failing tests for each method/edge
 ## License
 MIT License - free to use and modify.
 
-For questions, contact [your email]. This project showcases my skills in Python, TDD, and rapid prototyping for job applications.
+For questions, contact aafimalek2023@gmail.com. This project showcases my skills in Python, TDD, and rapid prototyping for job applications.
 
