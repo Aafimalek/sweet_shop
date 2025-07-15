@@ -5,7 +5,7 @@
 This project is a complete backend system for managing a sweet shop inventory, built using Test-Driven Development (TDD) principles. It features a user-friendly Streamlit frontend for interactive management. Developed as a take-home assignment to demonstrate clean code, SOLID principles, and robust testing.
 ## App Demo
 ![App Demo]  https://drive.google.com/file/d/1Dp2LM4Q_WnJVMLsCUzLqTVKsagKjbWr9/view?usp=sharing
-
+![Live Link] https://sweet-shop.streamlit.app/
 ## Features
 - **Sweet Management**: Add, delete, view, search (by name, category, price range), purchase, and restock sweets.
 - **Attributes**: Each sweet has a unique ID, name, category, price, and quantity.
